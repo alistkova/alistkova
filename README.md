@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/jinx" width="25%" align="right" />
+<img src="assets/jinx.jpg" width="25%" align="right" />
 <br><br>
 <pre>
 <samp>
