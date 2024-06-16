@@ -4,6 +4,7 @@
 <pre>
 <samp>
     Hello World! I'm Listkova Aleksandra.
+    <img src="assets/jinx.gif" align="center" />
     <br>Undergraduate student of SPbU Programming and Information Technology.
 </samp>
 </pre>
