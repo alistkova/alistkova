@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/jinx" width="25%" align="right" />
+<img src="https://github.com/alistkova/alistkova/assets/jinx" width="25%" align="right" />
 <br><br>
 <pre>
 <samp>
