@@ -1,3 +1,6 @@
 <div align="center">
-    <img src="https://lanyard.kyrie25.me/api/452724482662989824"bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else.../>
+hi there, I'm Listkova Aleksandra :)
+undergraduate student of SPbU Programming Programming and Information Technology
+love math league of legends and cats
+<img src="https://lanyard.kyrie25.me/api/452724482662989824"/>
 </div>
